@@ -2,16 +2,16 @@
 
 ### 👨‍💻 About Me
 
-I'm a **[Full Stack Developer]** with **[Four]** years of experience, specializing in **[ building scalable web applications, optimizing database performance, and machine learning]**.
+I'm a **Full Stack Developer** with **Four** years of experience, specializing in **building scalable web applications, optimizing database performance, and machine learning**.
 
-I love turning ideas into reality using code and am passionate about learning new technologies and solving complex problems. Currently, I'm diving deeper into **[Docker, AWS related services, DynamoDB ]**.
+I love turning ideas into reality using code and am passionate about learning new technologies and solving complex problems. Currently, I'm diving deeper into **Docker, AWS related services, DynamoDB**.
 
-- 🔭 I’m currently working on **[A project or specific skill, e.g., a real-time chat application using WebSockets, improving my competitive programming skills]**.
-- 🌱 I’m currently learning **[New language, framework, or concept, e.g., Rust, Vue.js, Advanced SQL]**.
-- 👯 I’m looking to collaborate on **[Type of project, e.g., Open Source projects related to JavaScript, projects focused on sustainable technology]**.
-- 💬 Ask me about **[Topics you are knowledgeable about, e.g., React, API design, DevOps practices]**.
-- 📫 How to reach me: **[Your Email Address]**
-- ⚡ Fun fact: **[A personal, non-work-related fact, e.g., I'm a certified barista, I enjoy hiking, I've traveled to 15 countries]**.
+- 🔭 I’m currently working on **improving my competitive programming skills, enrolled with different type of outsource projects to enhance my knowledge and skills**.
+- 🌱 I’m currently learning **Rust, Vue.js, Advanced SQL**.
+- 👯 I’m looking to collaborate on **Open Source projects related to JavaScript, projects focused on sustainable technology**.
+- 💬 Ask me about **Angular, NodeJs, React, API design, DevOps practices**.
+- 📫 How to reach me: **nchathu8@gmail.com**
+- ⚡ Fun fact: **I'm enjoying listening songs, I enjoy hiking, And Reading Books**.
 
 ***
 
@@ -22,7 +22,7 @@ This is a list of technologies I frequently use or have significant experience w
 | Category | Technologies |
 | :--- | :--- |
 | **Frontend** | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white) ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)** |
-| **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) |
 | **Databases** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
 | **DevOps & Cloud** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) |
 | **Testing** | ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white) ![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress&logoColor=white) |
