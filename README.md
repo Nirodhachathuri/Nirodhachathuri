@@ -2,16 +2,16 @@
 
 ### 👨‍💻 About Me
 
-I'm a **Full Stack Developer** with **Four** years of experience, specializing in **building scalable web applications, optimizing database performance, and machine learning**.
+I'm a **Full Stack Developer** with **4 years** of experience, specializing in **building scalable web applications, optimizing database performance, and machine learning**. I thrive on transforming complex ideas into functional code.
 
-I love turning ideas into reality using code and am passionate about learning new technologies and solving complex problems. Currently, I'm diving deeper into **Docker, AWS related services, DynamoDB**.
+Currently, I'm deepening my expertise in cloud-native technologies, focusing on **Docker, AWS services, and DynamoDB**.
 
-- 🔭 I’m currently working on **improving my competitive programming skills, enrolled with different type of outsource projects to enhance my knowledge and skills**.
-- 🌱 I’m currently learning **Rust, Vue.js, Advanced SQL**.
-- 👯 I’m looking to collaborate on **Open Source projects related to JavaScript, projects focused on sustainable technology**.
-- 💬 Ask me about **Angular, NodeJs, React, API design, DevOps practices**.
-- 📫 How to reach me: **nchathu8@gmail.com**
-- ⚡ Fun fact: **I'm enjoying listening songs, I enjoy hiking, And Reading Books**.
+* 🔭 **Working On:** Sharpening my competitive programming skills and taking on diverse freelance projects to expand my domain knowledge.
+* 🌱 **Learning:** Exploring the performance benefits of **Rust**, frontend flexibility with **Vue.js**, and advanced data manipulation via **Advanced SQL**.
+* 👯 **Collaborate:** Interested in **Open Source projects** (especially JavaScript-focused) and initiatives centered on **sustainable technology**.
+* 💬 **Ask Me About:** Angular, Node.js, React, API design, and DevOps practices.
+* 📫 **Connect:** nchathu8@gmail.com
+* ⚡ **Fun Fact:** When I'm not coding, you'll find me hiking, reading, or enjoying music.
 
 ***
 
