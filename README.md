@@ -35,7 +35,7 @@ This is a list of technologies I frequently use or have significant experience w
 
 | GitHub Stats | Top Languages |
 | :--- | :--- |
-| [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nirodhachathuri&show_icons=true&theme=dark)](https://github.com/Nirodhachathuri/github-readme-stats) | [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nirodhachathuri&layout=compact&theme=dark)](https://github.com/Nirodhachathuri/github-readme-stats) |
+| ![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Nirodhachathuri&show_icons=true&theme=tokyonight) | ![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Nirodhachathuri&layout=compact&theme=tokyonight) |
 
 *(**Important:** Replace all instances of `Nirodhachathuri` in the stat image URLs above with **your exact GitHub username**.)*
 
