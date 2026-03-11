@@ -9,7 +9,7 @@ Currently, I'm deepening my expertise in cloud-native technologies, focusing on 
 * 🔭 **Working On:** Sharpening my competitive programming skills and taking on diverse freelance projects to expand my domain knowledge.
 * 🌱 **Learning:** Exploring the performance benefits of **Rust**, frontend flexibility with **Vue.js**, and advanced data manipulation via **Advanced SQL**.
 * 👯 **Collaborate:** Interested in **Open Source projects** (especially JavaScript-focused) and initiatives centered on **sustainable technology**.
-* 💬 **Ask Me About:** Angular, Node.js, React, API design, and DevOps practices.
+* 💬 **Ask Me About:** Angular, Python (Flask, Django), Node.js, React, API design, and DevOps practices.
 * 📫 **Connect:** nchathu8@gmail.com
 * ⚡ **Fun Fact:** When I'm not coding, you'll find me hiking, reading, or enjoying music.
 
